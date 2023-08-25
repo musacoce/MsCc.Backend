@@ -116,6 +116,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.3, )"
+            },
+            "Rebus": {
+              "target": "Package",
+              "version": "[7.2.1, )"
             }
           },
           "imports": [

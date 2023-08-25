@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SlqyHwYah7aqUCKclOpJQyOp11HaMQJ7aKC1g3XAuqQNxWCAr3mNoiQzPdppPM+TB1dw5RZ0XSa99l77C0t0vw==",
+  "dgSpecHash": "IQQI3r0n+Q5oS1GBcK2uIMf9uYH6kIfx6n2e+k7XLZLM6AX1Z5NIDxMIq2e+y0jOaYNHQD5V689YDZVqWG/1qA==",
   "success": true,
   "projectFilePath": "C:\\Users\\musa.coce\\Desktop\\Musa\\CALISMALAR\\Projeler\\MsCc.Backend\\src\\Api\\Infrastructure\\MsCc.Backend.Api.Persistence\\MsCc.Backend.Api.Persistence\\MsCc.Backend.Api.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musa.coce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
@@ -33,6 +33,8 @@
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\musa.coce\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\musa.coce\\.nuget\\packages\\rebus\\7.2.1\\rebus.7.2.1.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
@@ -46,6 +48,7 @@
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\musa.coce\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
     "C:\\Users\\musa.coce\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
